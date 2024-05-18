@@ -15,4 +15,4 @@ Create an index.js file to handle the game logic.
 HTML: Sets up the structure for the Dicee game.
 CSS: Styles the game elements for a visually appealing design.
 JavaScript: Implements the logic for rolling dice and determining the winner. 
-The dice roll occurs when the page is refreshed, displaying random dice images and the game result in the <h1>  elements.
+The dice roll occurs when the page is refreshed, displaying random dice images and the game result in the h1 elements.
